@@ -1,3 +1,3 @@
 ### Google Sheets API
 
-A simple example using [Sheets API](https://developers.google.com/sheets/api) and [OAuth](https://developers.google.com/workspace/guides/configure-oauth-consent) to create  spreadsheets programmatically. The [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucKnXyESaXhR3SxezsZ740MzSz5tf-pkNg5GRtz27e0/edit#gid=0) in this example uses hardcoded values / formulas as seen in index.js.
+A simple example using [Sheets API](https://developers.google.com/sheets/api) and [OAuth](https://developers.google.com/workspace/guides/configure-oauth-consent) to create  spreadsheets programmatically. The [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucKnXyESaXhR3SxezsZ740MzSz5tf-pkNg5GRtz27e0/edit#gid=0) in this example uses hardcoded values / formulas as seen in **index.js**.
